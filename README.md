@@ -2,8 +2,6 @@
 
 A React App Template That Uses React-Router-Dom
 
-[Check Out React-Router-Dom-Demo]()
-
 
 ## Table of Contents
 
